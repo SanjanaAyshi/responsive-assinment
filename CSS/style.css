@@ -1,0 +1,51 @@
+#logo {
+height: 50px;
+width: 350px;
+}
+.img img{
+    height: 500px;
+    width: 500px;
+}
+.col-md-5 h1{
+    font-size: 80px;
+    font-weight: bolder;
+}
+.btn-col{
+    background-color: rgb(35, 35, 66);
+    border: 0px;
+}
+.btn-col img{
+    height: 32px;
+    width: 32px;
+}
+.bg-col{
+    background-color:beige ;
+}
+.cat-pic img{
+    height: 90px;
+    width: 90px;
+}
+.cart img{
+    height: 600px;
+    width: 800px;}
+    
+    @media screen and (min-width:250px) and (max-width:480px){
+      .cart img{
+        height: 200px;
+        width: 300px;
+    }
+}
+.cas-bag h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.cas-bag h3{
+    font-size: 30px;
+    font-weight: bold;
+}
+.bag-foot{
+    background-color: white;
+    border: 0px;
+    text-align: end;
+    border-radius: 5px;
+}
